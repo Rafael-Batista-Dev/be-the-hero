@@ -20,98 +20,190 @@ function profile() {
         </button>
       </header>
       <div className="item-content">
-        <h2>Casos cadastrados</h2>
-        <ul>
-          <li>
-            <strong>CASOS:</strong>
-            <p>Caso teste</p>
+        <div style={{ marginTop: "7rem" }} className="card">
+          <h1>Casos cadastrados</h1>
+          <ul>
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
 
-            <strong>DESCRIÇÃO:</strong>
-            <p>Descrição do Caso teste</p>
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
 
-            <strong>VALOR:</strong>
-            <p>R$ 220,00</p>
-          </li>
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
 
-          <li>
-            <strong>CASOS:</strong>
-            <p>Caso teste</p>
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
 
-            <strong>DESCRIÇÃO:</strong>
-            <p>Descrição do Caso teste</p>
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
 
-            <strong>VALOR:</strong>
-            <p>R$ 220,00</p>
-          </li>
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
 
-          <li>
-            <strong>CASOS:</strong>
-            <p>Caso teste</p>
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
 
-            <strong>DESCRIÇÃO:</strong>
-            <p>Descrição do Caso teste</p>
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
 
-            <strong>VALOR:</strong>
-            <p>R$ 220,00</p>
-          </li>
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
 
-          <li>
-            <strong>CASOS:</strong>
-            <p>Caso teste</p>
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
 
-            <strong>DESCRIÇÃO:</strong>
-            <p>Descrição do Caso teste</p>
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
 
-            <strong>VALOR:</strong>
-            <p>R$ 220,00</p>
-          </li>
-          <li>
-            <strong>CASOS:</strong>
-            <p>Caso teste</p>
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
 
-            <strong>DESCRIÇÃO:</strong>
-            <p>Descrição do Caso teste</p>
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
 
-            <strong>VALOR:</strong>
-            <p>R$ 220,00</p>
-          </li>
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
 
-          <li>
-            <strong>CASOS:</strong>
-            <p>Caso teste</p>
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
 
-            <strong>DESCRIÇÃO:</strong>
-            <p>Descrição do Caso teste</p>
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
 
-            <strong>VALOR:</strong>
-            <p>R$ 220,00</p>
-          </li>
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
 
-          <li>
-            <strong>CASOS:</strong>
-            <p>Caso teste</p>
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
 
-            <strong>DESCRIÇÃO:</strong>
-            <p>Descrição do Caso teste</p>
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
 
-            <strong>VALOR:</strong>
-            <p>R$ 220,00</p>
-          </li>
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
 
-          <li>
-            <strong>CASOS:</strong>
-            <p>Caso teste</p>
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
 
-            <strong>DESCRIÇÃO:</strong>
-            <p>Descrição do Caso teste</p>
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
 
-            <strong>VALOR:</strong>
-            <p>R$ 220,00</p>
-          </li>
-        </ul>
-        <button type="button">
-          <FiTrash2 />
-        </button>
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
+
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
+
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
+
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
+
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
+
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
+
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
+
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
+
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
+
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
+
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
+
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
+
+            <li>
+              <strong>CASOS:</strong>
+              <p>Caso teste</p>
+
+              <strong>DESCRIÇÃO:</strong>
+              <p>Descrição do Caso teste</p>
+
+              <strong>VALOR:</strong>
+              <p>R$ 220,00</p>
+              <button type="button">
+                <FiTrash2 />
+              </button>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   );
