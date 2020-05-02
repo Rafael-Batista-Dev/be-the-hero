@@ -1,6 +1,7 @@
 import React from "react";
 import "./styles.css";
 import Lottie from "react-lottie";
+import { Link } from "react-router-dom";
 
 import { FiLogIn } from "react-icons/fi";
 
@@ -19,9 +20,9 @@ function logon() {
             Entrar
           </button>
 
-          <a href="/register">
+          <Link className="link" to="/register">
             <FiLogIn size={16} color="#8c69c1" /> Não tenho cadastro
-          </a>
+          </Link>
         </form>
       </section>
       <div className="lottie-container">
