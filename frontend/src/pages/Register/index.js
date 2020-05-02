@@ -4,7 +4,7 @@ import logoImg from "../../assets/logo.svg";
 import { Link } from "react-router-dom";
 import { FiArrowLeft } from "react-icons/fi";
 
-function index() {
+function register() {
   return (
     <div className="register-container">
       <div className="content">
@@ -42,4 +42,4 @@ function index() {
   );
 }
 
-export default index;
+export default register;
