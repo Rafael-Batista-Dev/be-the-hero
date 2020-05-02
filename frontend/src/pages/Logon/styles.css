@@ -1,0 +1,60 @@
+.logon-container {
+  width: 60%;
+  max-width: 1120px;
+  height: 80vh;
+  margin: 0 auto;
+  margin-top: 4rem;
+  display: flex;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+  background: #dddddf;
+  box-shadow: 0px 0px 1em #666;
+  -webkit-box-shadow: 0px 0px 1em #666;
+  -moz-box-shadow: 0px 0px 1em #666;
+}
+
+.lottie-container {
+  margin: 0 auto;
+  height: 80vh;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+  background: #efeef1;
+}
+
+.logon-container section.form {
+  width: 100%;
+  max-width: 300px;
+  margin-right: 5rem;
+  margin-left: 5rem;
+}
+
+.logon-container section.form form {
+  margin-top: 2rem;
+}
+
+.logon-container section.form form h1 {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  color: #4f4e52;
+}
+
+.logon-container section.form form a {
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+  color: #4f4e52;
+  font-size: 1rem;
+  text-decoration: none;
+  font-weight: 500;
+  transition: opacity 0.2s;
+}
+
+.logon-container section.form form a svg {
+  margin-right: 1rem;
+}
+
+.logon-container section.form form a:hover {
+  opacity: 0.8;
+}
