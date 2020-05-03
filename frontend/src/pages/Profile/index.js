@@ -12,7 +12,7 @@ function profile() {
       <header>
         <img src={logoImg} alt="be the hero" />
         <span>Bem vindo, ao centro de zoonoses cariri</span>
-        <Link className="button" to="/incidents/new">
+        <Link className="button" to="/new-incident">
           Cadastrar novo caso
         </Link>
         <button type="button">

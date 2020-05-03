@@ -45,6 +45,20 @@ form input {
   padding: 0 24px;
 }
 
+form textarea {
+  width: 100%;
+  height: 100px;
+  min-height: 100px;
+  color: #333;
+  border: 2px solid #dcdce6;
+  border-radius: 8px;
+  padding: 0 24px;
+}
+
+form textarea:placeholder-shown {
+  padding: 24px;
+}
+
 .button {
   width: 100%;
   height: 60px;
