@@ -52,7 +52,7 @@ export default function Profile() {
         <Link className="button" to="/new-incident">
           Cadastrar novo caso
         </Link>
-        <button type="button">
+        <button onClick={handleLogout} type="button">
           <FiPower />
         </button>
       </header>
