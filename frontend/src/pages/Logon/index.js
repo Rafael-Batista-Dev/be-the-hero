@@ -1,14 +1,18 @@
-import React from "react";
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import "./styles.css";
 import Lottie from "react-lottie";
-import { Link } from "react-router-dom";
+
+import api from "../../services/api";
 
 import { FiLogIn } from "react-icons/fi";
 
 import logoImg from "../../assets/logo.svg";
 import animationData from "../../assets/hero.json";
 
-function logon() {
+export default function logon() {
+  const [id, setId] = useState("");
+
   return (
     <div className="logon-container">
       <section className="form">
@@ -44,5 +48,3 @@ function logon() {
     </div>
   );
 }
-
-export default logon;
