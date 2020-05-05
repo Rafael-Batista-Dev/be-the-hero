@@ -37,11 +37,11 @@ export default StyleSheet.create({
     color: "#737380",
   },
 
-  incidentsLint: {
+  incidentLint: {
     marginTop: 36,
   },
 
-  incidents: {
+  incident: {
     padding: 24,
     borderRadius: 8,
     backgroundColor: "#FFF",
