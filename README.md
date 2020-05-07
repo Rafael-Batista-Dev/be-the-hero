@@ -19,7 +19,7 @@ O projeto Be The Hero tem um objetivo social com os pet's onde a ONG apos ter re
 </p>
 <p>&nbsp;&nbsp;</p>
 
-![aplicacao](https://github.com/Rafael-Batista-Dev/be-the-hero/blob/master/src/imagens/be-the-hero.gif)
+![aplicacao](https://github.com/Rafael-Batista-Dev/be-the-hero/midia/be-the-hero.gif)
 
 ## Tecnologias Utilizadas 🔥
 
