@@ -19,14 +19,20 @@ O projeto Be The Hero tem um objetivo social com os pet's onde a ONG apos ter re
 </p>
 <p>&nbsp;&nbsp;</p>
 
-![aplicacao](https://github.com/Rafael-Batista-Dev/be-the-hero/blob/master/midia/be-the-hero.gif)
+<p align="center" width= '100%'>
+<img alt="MarvelQuiz" title="#MarvelQuiz" src="https://github.com/Rafael-Batista-Dev/be-the-hero/blob/master/midia/be-the-hero.gif" />
+</p>
 
-## Tecnologias Utilizadas 🔥
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [Expo](https://redux.js.org/)
-- [Axios](https://github.com/axios/axios)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 🚀 Como rodar este projeto
 
 _Lista de techs._
 
@@ -41,10 +47,51 @@ _Lista de techs._
 ✔ Knex
 ✔ Sqlite
 
-### Minhas redes sociais 🔗
+### Pré-requisitos
 
-Rafael batista – [@Linkedin](https://www.linkedin.com/in/rafael-batista-dev/)
-E-mail – rafaelbatista.sth@gmail.com
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js][nodejs].
+Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
+
+Este projeto está dividido em 3 partes:
+
+### 🎲 Rodando o Projeto
+
+```bash
+# Clone este repositório
+$ https://github.com/Rafael-Batista-Dev/be-the-hero
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd backend
+$ cd frontend
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ backend npm start 
+$ frontend npm start 
+$ mobile npm start
+
+
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](license) para saber mais.
+
+Feito com ❤️ por Rafael Batista 👋🏽 [Entre em contato!](www.linkedin.com/in/rafa-dev)
+
+:email: dev.rafaelbatista@gmail.com
 :octocat: Github –[https://github.com/](https://github.com/Rafael-Batista-Dev)
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+[nodejs]: https://nodejs.org/
+[reactjs]: https://reactjs.org
+[reactnative]: https://reactnative.org
+[expor]: https://expor.org
+[yarn]: https://yarnpkg.com/
+[vscode]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[license]: https://opensource.org/licenses/MIT
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+```
