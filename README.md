@@ -1,7 +1,9 @@
 <center>
-<h2 align="center"> 
-	🦸 Be The Her
-</h2>
+<div align="center"> 
+	<p align="center" width= '100%'>
+	<img alt="be-the-hero" title="#be-the-hero" src="https://github.com/Rafael-Batista-Dev/be-the-hero/blob/master/midia/logo.png" />
+	</p>
+</div>
 <h4 align="center"> 
 O projeto Be The Hero tem um objetivo social com os pet's onde a ONG apos ter realizado o seu cadastro poderá inserir casos de Pet's com vulnerabilidade e necessidades em meio a sociedade. A população por sua vez pode colabora através de uma aplicação Mobile, onde todos os casos são listados ao usuário e o mesmo podem entrar em contanto através do whatssap ou email pelo aplicativo.
 </h4>
@@ -17,10 +19,9 @@ O projeto Be The Hero tem um objetivo social com os pet's onde a ONG apos ter re
   Tecnologias |
   Licença
 </p>
-<p>&nbsp;&nbsp;</p>
 
 <p align="center" width= '100%'>
-<img alt="MarvelQuiz" title="#MarvelQuiz" src="https://github.com/Rafael-Batista-Dev/be-the-hero/blob/master/midia/be-the-hero.gif" />
+<img alt="be-the-hero" title="#be-the-hero" src="https://github.com/Rafael-Batista-Dev/be-the-hero/blob/master/midia/be-the-hero.gif" />
 </p>
 
 ## 🛠 Tecnologias
